@@ -34,6 +34,9 @@ SourceFiles
     helicity.C
     IOhelicity.H
 
+Author
+    Ehsan Golab, SUT. All rights reserved.
+
 \*---------------------------------------------------------------------------*/
 
 #ifndef helicity_H
